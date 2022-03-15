@@ -1,0 +1,13 @@
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.exe
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.deps.json
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.json
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.dev.json
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.dll
+C:\Users\claud\Desktop\dio bootcamp\Demos\bin\Debug\netcoreapp3.1\Demos.pdb
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.AssemblyInfo.cs
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.dll
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.pdb
+C:\Users\claud\Desktop\dio bootcamp\Demos\obj\Debug\netcoreapp3.1\Demos.genruntimeconfig.cache
